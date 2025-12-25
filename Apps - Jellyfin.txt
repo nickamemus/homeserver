@@ -1,0 +1,3 @@
+Apps - Jellyfin
+
+For Media storage. TV Shows, Movies, Music, etc.
