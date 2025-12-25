@@ -1,0 +1,3 @@
+Apps - Nextcloud
+
+Setup for file sharing, document collaboration, video calling, and others
